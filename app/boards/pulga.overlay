@@ -23,7 +23,7 @@
 	bme280@77 {
 		compatible = "bosch,bme280";
 		reg = <0x77>;
-		status = "disabled";
+		status = "okay";
 	};
 };
 
